@@ -46,11 +46,11 @@ The system identifies 8 key emotional states:
 
 ## Project Structure
 
--README.md
-app.py
--emotion_classification.ipynb
--requirements.txt
--xgb_model.json
+- README.md
+- app.py
+- emotion_classification.ipynb
+- requirements.txt
+- xgb_model.json
 
 
 ## 📊 Performance Summary
